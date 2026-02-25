@@ -1,0 +1,50 @@
+[
+    {
+        "id": "user_699e8074c78a4",
+        "fullname": "Mark Kevin Tac-an",
+        "email": "m.tac-an.559884@umindanao.edu.ph",
+        "username": "Mark",
+        "password": "$2y$10$84Y4RwwYUk.Vq12dcr8aZ.YDvzlpfqYuA0N5Q2eQqReQPk18wsogK",
+        "created_at": "2026-02-25 05:54:12"
+    },
+    {
+        "id": "user_699e809545c9b",
+        "fullname": "Mark Kevin Tac-an",
+        "email": "marktacan30@gmail.com",
+        "username": "MIRACLE",
+        "password": "$2y$10$ni9fYdbYqM4hmxPjQXo9Z.IEr24V0pEc4N4JScDhasxGHa2KMxDgq",
+        "created_at": "2026-02-25 05:54:45"
+    },
+    {
+        "id": "user_699e87048a556",
+        "fullname": "Mark Kevin Tac-an",
+        "email": "marktacan5@gmail.com",
+        "username": "Kevinn",
+        "password": "$2y$10$IZBxyKumpN1U.eeKieocL.7FafgM3b6n790lm9rG0iQyA6si6IonO",
+        "created_at": "2026-02-25 06:22:12"
+    },
+    {
+        "id": "user_699e87e01df79",
+        "fullname": "Mark Kevin Rabina Tac-an",
+        "email": "marktacan6@gmail.com",
+        "username": "Mark3",
+        "password": "$2y$10$5Z9uG4LvtwrG6UYj4hvvBORMScCWk8z5b7Y.M0QqYbsH0mouYdiM2",
+        "created_at": "2026-02-25 06:25:52"
+    },
+    {
+        "id": "user_699e88df8cfc9",
+        "fullname": "Piolo Pascual",
+        "email": "piolo@gmail.com",
+        "username": "Piolo1",
+        "password": "$2y$10$c535x.n0eXJdmPiAZTCtd.xTTws3FMF1JC64OWlhCvDASGoESQDLy",
+        "created_at": "2026-02-25 06:30:07"
+    },
+    {
+        "id": "user_699e8ab397c1f",
+        "fullname": "Joshua Garcia",
+        "email": "josh@gmail.com12",
+        "username": "Joshua1",
+        "password": "$2y$10$mgNMD3L8KWZ0zTEryOqceOFuNVxe80OJyZvITBIudR\/96wfPjZdQ6",
+        "created_at": "2026-02-25 06:37:55"
+    }
+]
